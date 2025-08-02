@@ -412,7 +412,6 @@ button {
     #header .companyname{
         margin: 13px auto 12px 20px;
         align-items: center;
-        background-color: bisque;
     }
     #header .companyname h3{
         font-weight: 700;
