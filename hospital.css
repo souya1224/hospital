@@ -589,9 +589,9 @@ button {
         flex-wrap: wrap;
     }
     #footer .navi li{
+        font-size: 18px;
     }
     #footer .sns{
         margin-top: 30px;
-        font-size: 1rem;
     }
 }
